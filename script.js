@@ -233,7 +233,7 @@
             const container = document.createElement('div');
             container.className = 'benzer-urunler-container';
             
-            let icerik = '<div class="benzer-urunler-baslik"><h2>You Might Also Like</h2></div>';
+            let icerik = '<div class="benzer-urunler-baslik"><h2> Bunları da Beğenebilirsiniz</h2></div>';
             icerik += '<div class="carousel-wrapper">';
             icerik += '<button class="carousel-btn sol-btn"><</button>';
             icerik += '<div class="urunler-listesi"><div class="urunler-ic">';
